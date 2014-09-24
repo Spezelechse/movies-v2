@@ -13,3 +13,11 @@ It's an old project of mine which allows sharing your "movie" collection informa
 Everything was implemented with plain PHP (except FPDF) and some JQuery for the JavaScript part.
 
 Since it's one of my first projects which was patched every time i learned something new, the code now looks a little bit patchwork like and a some functions are not realy ideal or missing. So I'm starting to develop a new version ([V3](https://github.com/Spezelechse/movies-v3) ^^).
+
+-----------------------------
+
+###Installation
+
+1. Just create a new database and import the "create_database.sql" File
+2. Edit the Config.php (found inside the config folder) and enter your database connection data
+3. Now you should be able to login with password and username = admin
