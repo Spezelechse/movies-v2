@@ -8,7 +8,7 @@ It's an old project of mine which allows sharing your "movie" collection informa
 - switch the website from public to private
 - search "movies" via a simple ajax search field or the advanced search page
 - the listings can be switched between two views: title/genre and cover picture
-- every "movie" has a detail page with informations about the movie. Some can be used to search other movies from this page and a big version of the cover picture (via overlay)
+- every "movie" has a detail page with informations about the movie (some can be used to search other movies from this page) and a big version of the cover picture (via overlay)
 - the website title can be changed from the admin section (incl. the title inside the header pic)
 Everything was implemented with plain PHP (except FPDF) and some JQuery for the JavaScript part.
 
